@@ -152,5 +152,7 @@ Technologies used in the project :
 *   Lombok
 *   Java JWT
 *   Itextpdf
+*   JUnit
+*   Mockito
 *   Spring Doc OpenAPI Starter Webmvc UI
 *   Postman
