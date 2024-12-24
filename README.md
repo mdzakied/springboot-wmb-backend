@@ -1,7 +1,7 @@
 <h1 align="center" id="title">springboot-wmb-backend</h1>
 
 
-<p align="center" id="description">REST API for managing data resto 'warung makan bahari'.</p>
+<p align="center" id="description">RESTful API for managing data resto 'warung makan bahari'.</p>
 
 
 <h2>🧐 Features</h2>
