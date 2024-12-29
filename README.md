@@ -19,12 +19,6 @@ The **Warung Makan Bahari - Webservice API** is a comprehensive REST API built t
 - **Payment Integration 💳:** Secure payment processing via Midtrans.
 - **Data Export 📊:** Ability to export transaction data into CSV and PDF formats.
 
-In addition to these features, I am continuously working on improving the API's security by:
-
-- Enhancing authentication mechanisms.
-- Managing user access based on roles.
-- Ensuring secure communication between the client and server.
-
 ---
 
 ## ⚙️ Technologies Used 
