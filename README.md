@@ -1,7 +1,7 @@
 <h1 align="center" id="title">springboot-wmb-backend</h1>
 
 <p align="center">
-  <strong>RESTful API for managing data at 'Warung Makan Bahari'</strong>
+  <strong>Webservice API for managing data at 'Warung Makan Bahari'</strong>
 </p>
 
 <p align="center">
