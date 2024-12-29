@@ -176,26 +176,3 @@ Postman :
 * Insert Authorize with bearer token in another API
 
 ---
-
-<h2>💻 Built with</h2>
-
-Technologies used in the project :
-
-*   PostgreSQL
-*   Java
-*   Maven
-*   Spring Boot
-*   Spring Boot Starter Data JPA
-*   Spring Boot Starter Validation
-*   Spring Boot Starter Web
-*   Spring Boot Devtools
-*   Spring Boot Starter Test
-*   Spring Boot Starter Security
-*   Spring Security Test
-*   Lombok
-*   Java JWT
-*   Itextpdf
-*   JUnit
-*   Mockito
-*   Spring Doc OpenAPI Starter Webmvc UI
-*   Postman
