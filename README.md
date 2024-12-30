@@ -23,11 +23,11 @@ The **Warung Makan Bahari - Webservice API** is a comprehensive REST API built t
 
 ## ⚙️ Technologies Used 
 
-- **Backend:** Java with Spring Boot
-- **Database:** PostgreSQL
-- **Security:** Spring Security for authentication and authorization
-- **Testing:** JUnit and Mockito for unit testing and mocking
-- **API Documentation:** Spring Doc OpenAPI Starter with WebMVC UI and Postman
+- **Backend 💻:** Java with Spring Boot
+- **Database 🗄️:** PostgreSQL
+- **Security 🔐:** Spring Security for authentication and authorization
+- **Testing 🧪:** JUnit and Mockito for unit testing and mocking
+- **API Documentation 📜:** Spring Doc OpenAPI Starter with WebMVC UI and Postman
 
 ---
 
